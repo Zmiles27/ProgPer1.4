@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main()
     {
-        DirectoryInfo dir = new DirectoryInfo(@"C:\ma\prog\c#\FileDirOpdracht");
+        DirectoryInfo dir = new DirectoryInfo(@"C:\Users\Gerben\GitProjecten\per4\ProgPer4\ProgPer1.4\FileDirOpdracht");
         PrintFilesAndDirectories(dir);
     }
 
